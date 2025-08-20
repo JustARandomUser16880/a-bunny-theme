@@ -16,10 +16,10 @@
     "INTERACTIVE_HOVER": ["#701010"],
     "INTERACTIVE_ACTIVE": ["#851818"],
     "INTERACTIVE_MUTED": ["#3a0000"],
-    "BACKGROUND_PRIMARY": ["#1a0000"],
-    "BACKGROUND_SECONDARY": ["#240000"],
-    "BACKGROUND_SECONDARY_ALT": ["#2a0000"],
-    "BACKGROUND_TERTIARY": ["#2a0000"],
+    "BACKGROUND_PRIMARY": ["#120000"],
+    "BACKGROUND_SECONDARY": ["#1a0000"],
+    "BACKGROUND_SECONDARY_ALT": ["#200000"],
+    "BACKGROUND_TERTIARY": ["#200000"],
     "BACKGROUND_ACCENT": ["#3d0000"],
     "BACKGROUND_FLOATING": ["#150000"],
     "BACKGROUND_MOBILE_PRIMARY": ["#1a0000"],
@@ -42,12 +42,12 @@
     "TEXT_DANGER": ["#ff5a5a"],
     "KEYBOARD": ["#2a0000"],
     "CHANNEL_ICON": ["#a33d3d"],
-    "CHAT_BACKGROUND": ["#1a0000"],
+    "CHAT_BACKGROUND": ["#120000"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#240000"],
     "REDESIGN_CHANNEL_CATAGORY_NAME_TEXT": ["#e68c8c"],
     "REDESIGN_CHANNEL_NAME_TEXT": ["#f2cfcf"],
-    "CARD_PRIMARY_BG": ["#240000"],
-    "CARD_SECONDARY_BG": ["#2a0000"],
+    "CARD_PRIMARY_BG": ["#1a0000"],
+    "CARD_SECONDARY_BG": ["#200000"],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#3d0000"],
     "REDESIGN_CHAT_INPUT_BACKGROUND": ["#180000"],
     "REDESIGN_BUTTON_SECONDARY_BORDER": ["#5a0000"],
@@ -117,7 +117,7 @@
     "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1"
   },
   "background": {
-    "blur": 0.5,
+    "blur": 0.7,
     "url": "https://raw.githubusercontent.com/JustARandomUser16880/a-bunny-theme/refs/heads/main/background.png",
     "alpha": 0.7
   },
@@ -126,7 +126,7 @@
     "iconpack": "rosiecord-plumpy"
   },
   "spec": 2,
-  "displayName": "Ukiyo Red"
+  "displayName": "Bunny theme"
 }
 
 
