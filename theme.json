@@ -8,73 +8,178 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#851818"],
-    "HEADER_SECONDARY": ["#cc1414"],
-    "TEXT_NORMAL": ["#cc1414"],
-    "TEXT_MUTED": ["#e68c8c"],
-    "INTERACTIVE_NORMAL": ["#5c0a0a"],
-    "INTERACTIVE_HOVER": ["#701010"],
-    "INTERACTIVE_ACTIVE": ["#851818"],
-    "INTERACTIVE_MUTED": ["#3a0000"],
-    "BACKGROUND_PRIMARY": ["#120000"],
-    "BACKGROUND_SECONDARY": ["#1a0000"],
-    "BACKGROUND_SECONDARY_ALT": ["#200000"],
-    "BACKGROUND_TERTIARY": ["#200000"],
-    "BACKGROUND_ACCENT": ["#3d0000"],
-    "BACKGROUND_FLOATING": ["#150000"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#1a0000"],
-    "BG_BASE_TERTIARY": ["#200000"],
-    "BG_BASE_SECONDARY": ["#180000"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#240000"],
-    "BACKGROUND_NESTED_FLOATING": ["#2a0000"],
-    "BACKGROUND_MESSAGE_HOVER": ["#3d0000"],
-    "BACKGROUND_MODIFIER_HOVER": ["#2a0000"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#3d0000"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#4a0000"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#2a0000"],
-    "SCROLLBAR_THIN_THUMB": ["#4a0000"],
-    "SCROLLBAR_THIN_TRACK": ["transparent"],
-    "SCROLLBAR_AUTO_THUMB": ["#5a0000"],
-    "SCROLLBAR_AUTO_TRACK": ["#2a0000"],
-    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#e68c8c"],
-    "CHANNELS_DEFAULT": ["#f2cfcf"],
-    "TEXT_LINK": ["#ffbaba"],
-    "TEXT_DANGER": ["#ff5a5a"],
-    "KEYBOARD": ["#2a0000"],
-    "CHANNEL_ICON": ["#a33d3d"],
-    "CHAT_BACKGROUND": ["#120000"],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#240000"],
-    "REDESIGN_CHANNEL_CATAGORY_NAME_TEXT": ["#e68c8c"],
-    "REDESIGN_CHANNEL_NAME_TEXT": ["#f2cfcf"],
-    "CARD_PRIMARY_BG": ["#1a0000"],
-    "CARD_SECONDARY_BG": ["#200000"],
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#3d0000"],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#180000"],
-    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#5a0000"],
-    "BORDER_FAINT": ["#5a0000"],
-    "BG_BACKDROP": ["#00000073"]
+    "HEADER_PRIMARY": [
+      "#8B1A1A"
+    ],
+    "HEADER_SECONDARY": [
+      "#6F0F0F"
+    ],
+    "TEXT_NORMAL": [
+      "#D99A9A"
+    ],
+    "TEXT_MUTED": [
+      "#5C0D0D"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#5C0D0D"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#5C0D0D"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#7A1111"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#8C2E2E"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0e0d17"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#2F1717"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#311717"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#231b17"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#744646"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#110F17"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#0f0a16"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#130f17"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#130f17"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#141117"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#171217"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#9D6666"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#3B2B2B"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#2c2020"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#3E2E2E"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#231b17"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#26231A"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#DAC0B3"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#DAC0B3"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#8B1A1A"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#8B1A1A"
+    ],
+    "TEXT_LINK": [
+      "#C27A7A"
+    ],
+    "TEXT_DANGER": [
+      "#5A3030"
+    ],
+    "KEYBOARD": [
+      "#312222"
+    ],
+    "CHANNEL_ICON": [
+      "#433737"
+    ],
+    "CHAT_BACKGROUND": [
+      "#312222"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#311717"
+    ],
+    "REDESIGN_CHANNEL_CATAGORY_NAME_TEXT": [
+      "#8B1A1A"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#D99A9A"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#1E1A17"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#221E1A"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#4E2B2B"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#141117"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#4E2B2B"
+    ],
+    "BORDER_FAINT": [
+      "#4E2B2B"
+    ],
+    "BG_BACKDROP": [
+      "#04010173"
+    ]
   },
   "rawColors": {
-    "PRIMARY_100": "#cc1414",
-    "PRIMARY_200": "#e68c8c",
-    "PRIMARY_230": "#e68c8c",
-    "PRIMARY_300": "#cc1414",
-    "PRIMARY_360": "#b87a7a",
-    "PRIMARY_400": "#7a2a2a",
-    "PRIMARY_500": "#5c0a0a",
-    "PRIMARY_600": "#240000",
-    "PRIMARY_630": "#240000",
-    "PRIMARY_645": "#b87a7a",
-    "PRIMARY_660": "#1a0000",
-    "PRIMARY_700": "#120000",
-    "PRIMARY_800": "#0c0000",
-    "BRAND_260": "#5a0000",
-    "BRAND_360": "#ffbaba",
-    "BRAND_500": "#cc1414",
-    "RED_400": "#cc1414",
-    "RED_500": "#e01717",
-    "RED_600": "#cc1414",
-    "RED_700": "#950004"
+    "PRIMARY_500": "#E3B5B5",
+    "PRIMARY_100": "#E4C4C4",
+    "PRIMARY_200": "#F4EAEA",
+    "PRIMARY_230": "#F4EAEA",
+    "PRIMARY_300": "#735252",
+    "PRIMARY_360": "#8B1A1A",
+    "PRIMARY_400": "#735252",
+    "PRIMARY_600": "#141117",
+    "PRIMARY_630": "#231b17",
+    "PRIMARY_645": "#8B1A1A",
+    "PRIMARY_660": "#231b17",
+    "PRIMARY_700": "#312222",
+    "PRIMARY_800": "#231b17",
+    "BRAND_260": "#4E2B2B",
+    "BRAND_360": "#F4EAEA",
+    "BRAND_500": "#4E2B2B",
+    "BRAND_560": "#735252",
+    "PLUM_1": "#8B1A1A",
+    "PLUM_10": "#4D2B2B",
+    "PLUM_11": "#262020",
+    "PLUM_13": "#4E2B2B",
+    "PLUM_15": "#262020",
+    "PLUM_16": "#4E2B2B",
+    "PLUM_17": "#171212",
+    "PLUM_18": "#4E2B2B",
+    "PLUM_19": "#4E2B2B",
+    "PLUM_20": "#171212",
+    "PLUM_21": "#191212",
+    "PLUM_22": "#262020",
+    "PLUM_24": "#201C1A",
+    "PLUM_25": "#8B1A1A",
+    "PLUM_3": "#F5D0D0",
+    "PLUM_4": "#31748F50",
+    "PLUM_6": "#EEE9FE",
+    "PLUM_9": "#8B1A1A"
   },
   "background": {
     "blur": 0.7,
