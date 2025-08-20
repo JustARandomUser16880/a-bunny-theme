@@ -118,7 +118,7 @@
   },
   "background": {
     "blur": 0.5,
-    "url": "https://raw.githubusercontent.com/JustARandomUser16880/mox-theme/refs/heads/main/background.png",
+    "url": "https://raw.githubusercontent.com/JustARandomUser16880/a-bunny-theme/refs/heads/main/background.png",
     "alpha": 0.7
   },
   "plus": {
@@ -128,5 +128,6 @@
   "spec": 2,
   "displayName": "Ukiyo Red"
 }
+
 
 
