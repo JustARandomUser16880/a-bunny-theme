@@ -8,9 +8,9 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#f2cfcf"],
-    "HEADER_SECONDARY": ["#ffbaba"],
-    "TEXT_NORMAL": ["#f2cfcf"],
+    "HEADER_PRIMARY": ["#851818"],
+    "HEADER_SECONDARY": ["#cc1414"],
+    "TEXT_NORMAL": ["#cc1414"],
     "TEXT_MUTED": ["#e68c8c"],
     "INTERACTIVE_NORMAL": ["#5c0a0a"],
     "INTERACTIVE_HOVER": ["#701010"],
@@ -55,10 +55,10 @@
     "BG_BACKDROP": ["#00000073"]
   },
   "rawColors": {
-    "PRIMARY_100": "#f2cfcf",
-    "PRIMARY_200": "#e6baba",
-    "PRIMARY_230": "#e6baba",
-    "PRIMARY_300": "#cc9999",
+    "PRIMARY_100": "#cc1414",
+    "PRIMARY_200": "#e68c8c",
+    "PRIMARY_230": "#e68c8c",
+    "PRIMARY_300": "#cc1414",
     "PRIMARY_360": "#b87a7a",
     "PRIMARY_400": "#7a2a2a",
     "PRIMARY_500": "#5c0a0a",
@@ -70,51 +70,11 @@
     "PRIMARY_800": "#0c0000",
     "BRAND_260": "#5a0000",
     "BRAND_360": "#ffbaba",
-    "BRAND_500": "#a33d3d",
-    "BRAND_560": "#cc1414",
-    "YELLOW_100": "#f6c177",
-    "YELLOW_300": "#d2b7aa",
-    "GREEN_100": "#9ccfd8",
-    "GREEN_360": "#b88c8c",
-    "GREEN_600": "#efdfd7",
-    "RED_400": "#e28c8c",
+    "BRAND_500": "#cc1414",
+    "RED_400": "#cc1414",
     "RED_500": "#e01717",
     "RED_600": "#cc1414",
-    "RED_700": "#950004",
-    "WHITE_500": "#efdfd7",
-    "PLUM_1": "#ffbaba",
-    "PLUM_3": "#ffbaba",
-    "PLUM_4": "#e68c8c",
-    "PLUM_6": "#ff9999",
-    "PLUM_9": "#e68c8c",
-    "PLUM_10": "#e68c8c",
-    "PLUM_11": "#cc1414",
-    "PLUM_13": "#e68c8c",
-    "PLUM_15": "#cc1414",
-    "PLUM_16": "#e68c8c",
-    "PLUM_17": "#cc1414",
-    "PLUM_18": "#e68c8c",
-    "PLUM_19": "#e68c8c",
-    "PLUM_20": "#cc1414",
-    "PLUM_21": "#cc1414",
-    "PLUM_22": "#cc1414",
-    "PLUM_24": "#cc1414",
-    "PLUM_25": "#ffbaba",
-    "GUILD_BOOSTING_PINK": "#f28b82",
-    "GUILD_BOOSTING_PURPLE": "#e68c8c"
-  },
-  "fonts": {
-    "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-    "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-    "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
-    "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-    "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
-    "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
-    "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1"
+    "RED_700": "#950004"
   },
   "background": {
     "blur": 0.7,
@@ -128,6 +88,3 @@
   "spec": 2,
   "displayName": "Bunny theme"
 }
-
-
-
